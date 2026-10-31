@@ -1,4 +1,4 @@
-Ghostship is a fast-paced arcade game built using Python and Pygame. The objective is to catch falling ghosts before they disappear. Ghosts appear at random times, keeping players alert and testing their reaction speed. 
+Ghostship is a fast-paced arcade game. The objective is to catch falling ghosts before they disappear. Ghosts appear at random times, keeping players alert and testing their reaction speed. 
 Start the game.
 
 Watch for ghosts falling from the top of the screen.
